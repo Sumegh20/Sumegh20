@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sumegh20
 - 👀 I’m interested in Statistics, Machine Learning, Deep Learning, Computer Vision
 - 🌱 I’m currently learning Industry Level Coding
-- 💞️ I’m currently working as a Jr Data Scientist @Cloudcraftz solutions pvt ltd
+- 💞️ I’m currently working as a Data Scientist @Cloudcraftz solutions pvt ltd
 - 📫 You can contact me in [linkedin](https://www.linkedin.com/in/sumegh-sen/) 
 
 <!---
